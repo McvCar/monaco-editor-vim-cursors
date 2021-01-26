@@ -14,3 +14,5 @@ var editor = monaco.editor.create(document.getElementById('container'), {
 let EditorVim = require('editor_vim')
 EditorVim.init(editor,monaco);
 ```
+# Finished product preview
+Apply to the Cocos Creator built-in editor plug-in: https://forum.cocos.org/t/topic/99871
